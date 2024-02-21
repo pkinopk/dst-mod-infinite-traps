@@ -3,7 +3,7 @@ description = "This mod makes the Tooth Trap and Bramble Trap items have infinit
 author = "Flash"
 version = "1.4"
 
-forumthread = ""
+forumthread = "https://github.com/pkinopk/dst-mod-infinite-traps"
 
 api_version = 10
 
